@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "608164685136",
+    "firebase_url": "https://extraprojects-80ac7.firebaseio.com",
+    "project_id": "extraprojects-80ac7",
+    "storage_bucket": "extraprojects-80ac7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608164685136:android:6793cf4429e3e48f",
+        "android_client_info": {
+          "package_name": "kk.techbytecare.barberbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608164685136-ar1fa5817j4d8n3i0ffuturfk9uqj5to.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kk.techbytecare.barberbooking",
+            "certificate_hash": "0fbc45c5dd5c0826dff4139569c0fa92f77c12c6"
+          }
+        },
+        {
+          "client_id": "608164685136-r8u7n5364eamaupfidiafr99o2vpno3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2m6GARjqI0PCxy231toBvxfU5BDbW40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608164685136-r8u7n5364eamaupfidiafr99o2vpno3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608164685136:android:bf540efb70dc71fe",
+        "android_client_info": {
+          "package_name": "kk.techbytecare.referralsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608164685136-icschm4d579de3og062sg7d4v8a7s1i6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kk.techbytecare.referralsystem",
+            "certificate_hash": "f57aaeb4e7281cae9346b70072f8d3b073465128"
+          }
+        },
+        {
+          "client_id": "608164685136-r8u7n5364eamaupfidiafr99o2vpno3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm2m6GARjqI0PCxy231toBvxfU5BDbW40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608164685136-r8u7n5364eamaupfidiafr99o2vpno3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
